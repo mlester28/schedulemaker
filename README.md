@@ -1,3 +1,3 @@
 # schedulemaker
-#Helps you make your Wesleyan semester schedule.
-#Made in Bill Boyd Jr's class: working with python (Fall 2014)
+Helps you make your Wesleyan semester schedule.
+Made in Bill Boyd Jr's class: working with python (Fall 2014).
